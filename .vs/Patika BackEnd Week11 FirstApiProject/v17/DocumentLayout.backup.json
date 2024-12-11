@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 FirstApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096DE815-1CCA-48E2-A845-8F86AE737918}|FirstApiProject\\FirstApiProject.csproj|c:\\users\\user\\desktop\\patika backend week11 firstapiproject\\firstapiproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096DE815-1CCA-48E2-A845-8F86AE737918}|FirstApiProject\\FirstApiProject.csproj|solutionrelative:firstapiproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096DE815-1CCA-48E2-A845-8F86AE737918}|FirstApiProject\\FirstApiProject.csproj|c:\\users\\user\\desktop\\patika backend week11 firstapiproject\\firstapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096DE815-1CCA-48E2-A845-8F86AE737918}|FirstApiProject\\FirstApiProject.csproj|solutionrelative:firstapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096DE815-1CCA-48E2-A845-8F86AE737918}|FirstApiProject\\FirstApiProject.csproj|c:\\users\\user\\desktop\\patika backend week11 firstapiproject\\firstapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{096DE815-1CCA-48E2-A845-8F86AE737918}|FirstApiProject\\FirstApiProject.csproj|solutionrelative:firstapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 FirstApiProject\\FirstApiProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FirstApiProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 FirstApiProject\\FirstApiProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FirstApiProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:57:18.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 FirstApiProject\\FirstApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 FirstApiProject\\FirstApiProject\\Program.cs",
+              "RelativeToolTip": "FirstApiProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:57:15.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 FirstApiProject\\FirstApiProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstApiProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 FirstApiProject\\FirstApiProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstApiProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T18:56:43.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
